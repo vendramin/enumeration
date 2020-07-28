@@ -1,0 +1,660 @@
+I skip the trivial rack.
+Running savilerow. File: YB5_r2.eprime. Output: YB5_r2.output
+I found 72 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  4,  3,  5 ] ]
+I constructed 72 solutions in 742ms (= 0:00:00.742)
+Running savilerow. File: YB5_r3.eprime. Output: YB5_r3.output
+I found 27 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  3,  4,  2,  5 ] ]
+I constructed 99 solutions in 1365ms (= 0:00:01.365)
+Running savilerow. File: YB5_r4.eprime. Output: YB5_r4.output
+I found 60 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  2,  1,  4,  3,  5 ] ]
+I constructed 159 solutions in 2397ms (= 0:00:02.397)
+Running savilerow. File: YB5_r5.eprime. Output: YB5_r5.output
+I found 16 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  2,  3,  4,  1,  5 ] ]
+I constructed 175 solutions in 3333ms (= 0:00:03.333)
+Running savilerow. File: YB5_r6.eprime. Output: YB5_r6.output
+I found 72 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  3,  2,  4,  5 ],
+  [  1,  3,  2,  4,  5 ] ]
+I constructed 247 solutions in 3933ms (= 0:00:03.933)
+Running savilerow. File: YB5_r7.eprime. Output: YB5_r7.output
+I found 45 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ] ]
+I constructed 292 solutions in 4791ms (= 0:00:04.791)
+Running savilerow. File: YB5_r8.eprime. Output: YB5_r8.output
+I found 24 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  3,  1,  2,  4,  5 ] ]
+I constructed 316 solutions in 5686ms (= 0:00:05.686)
+Running savilerow. File: YB5_r9.eprime. Output: YB5_r9.output
+I found 88 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  5,  4 ],
+  [  1,  2,  5,  4,  3 ],
+  [  1,  2,  4,  3,  5 ] ]
+I constructed 404 solutions in 6604ms (= 0:00:06.604)
+Running savilerow. File: YB5_r10.eprime. Output: YB5_r10.output
+I found 64 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  5,  4 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ] ]
+I constructed 468 solutions in 7224ms (= 0:00:07.224)
+Running savilerow. File: YB5_r11.eprime. Output: YB5_r11.output
+I found 84 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ] ]
+I constructed 552 solutions in 8010ms (= 0:00:08.010)
+Running savilerow. File: YB5_r12.eprime. Output: YB5_r12.output
+I found 64 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  4,  3,  5 ] ]
+I constructed 616 solutions in 8735ms (= 0:00:08.735)
+Running savilerow. File: YB5_r13.eprime. Output: YB5_r13.output
+I found 64 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  2,  1,  3,  5,  4 ],
+  [  2,  1,  5,  4,  3 ],
+  [  2,  1,  4,  3,  5 ] ]
+I constructed 680 solutions in 9634ms (= 0:00:09.634)
+Running savilerow. File: YB5_r14.eprime. Output: YB5_r14.output
+I found 60 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  5,  4 ],
+  [  1,  2,  3,  5,  4 ],
+  [  1,  3,  2,  4,  5 ],
+  [  1,  3,  2,  4,  5 ] ]
+I constructed 740 solutions in 10487ms (= 0:00:10.487)
+Running savilerow. File: YB5_r15.eprime. Output: YB5_r15.output
+I found 28 solutions
+Rack:
+[ [  1,  2,  3,  4,  5 ],
+  [  1,  2,  4,  5,  3 ],
+  [  1,  5,  3,  2,  4 ],
+  [  1,  3,  5,  4,  2 ],
+  [  1,  4,  2,  3,  5 ] ]
+I constructed 768 solutions in 11376ms (= 0:00:11.376)
+Running savilerow. File: YB5_r16.eprime. Output: YB5_r16.output
+I found 64 solutions
+Rack:
+[ [  1,  2,  3,  5,  4 ],
+  [  1,  2,  3,  5,  4 ],
+  [  1,  2,  3,  5,  4 ],
+  [  1,  3,  2,  4,  5 ],
+  [  1,  3,  2,  4,  5 ] ]
+I constructed 832 solutions in 12033ms (= 0:00:12.033)
+Running savilerow. File: YB5_r17.eprime. Output: YB5_r17.output
+I found 36 solutions
+Rack:
+[ [  1,  2,  3,  5,  4 ],
+  [  1,  2,  3,  5,  4 ],
+  [  1,  2,  3,  5,  4 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ] ]
+I constructed 868 solutions in 12923ms (= 0:00:12.923)
+Running savilerow. File: YB5_r18.eprime. Output: YB5_r18.output
+I found 60 solutions
+Rack:
+[ [  1,  2,  3,  5,  4 ],
+  [  1,  2,  3,  5,  4 ],
+  [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ] ]
+I constructed 928 solutions in 13896ms (= 0:00:13.896)
+Running savilerow. File: YB5_r19.eprime. Output: YB5_r19.output
+I found 16 solutions
+Rack:
+[ [  1,  2,  4,  5,  3 ],
+  [  1,  2,  5,  3,  4 ],
+  [  2,  1,  3,  5,  4 ],
+  [  2,  1,  5,  4,  3 ],
+  [  2,  1,  4,  3,  5 ] ]
+I constructed 944 solutions in 14630ms (= 0:00:14.630)
+Running savilerow. File: YB5_r20.eprime. Output: YB5_r20.output
+I found 10 solutions
+Rack:
+[ [  1,  3,  2,  5,  4 ],
+  [  4,  2,  5,  1,  3 ],
+  [  5,  4,  3,  2,  1 ],
+  [  3,  5,  1,  4,  2 ],
+  [  2,  1,  4,  3,  5 ] ]
+I constructed 954 solutions in 17422ms (= 0:00:17.422)
+Running savilerow. File: YB5_r21.eprime. Output: YB5_r21.output
+I found 10 solutions
+Rack:
+[ [  1,  3,  4,  5,  2 ],
+  [  3,  2,  5,  1,  4 ],
+  [  4,  5,  3,  2,  1 ],
+  [  5,  1,  2,  4,  3 ],
+  [  2,  4,  1,  3,  5 ] ]
+I constructed 964 solutions in 20481ms (= 0:00:20.481)
+Running savilerow. File: YB5_r22.eprime. Output: YB5_r22.output
+I found 10 solutions
+Rack:
+[ [  1,  3,  4,  5,  2 ],
+  [  4,  2,  5,  3,  1 ],
+  [  5,  1,  3,  2,  4 ],
+  [  2,  5,  1,  4,  3 ],
+  [  3,  4,  2,  1,  5 ] ]
+I constructed 974 solutions in 23293ms (= 0:00:23.293)
+Running savilerow. File: YB5_r23.eprime. Output: YB5_r23.output
+I found 84 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ] ]
+I constructed 1058 solutions in 24088ms (= 0:00:24.088)
+Running savilerow. File: YB5_r24.eprime. Output: YB5_r24.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  4,  3,  5 ] ]
+I constructed 1122 solutions in 24769ms (= 0:00:24.769)
+Running savilerow. File: YB5_r25.eprime. Output: YB5_r25.output
+I found 72 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ] ]
+I constructed 1194 solutions in 25430ms (= 0:00:25.430)
+Running savilerow. File: YB5_r26.eprime. Output: YB5_r26.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  2,  1,  4,  3,  5 ] ]
+I constructed 1258 solutions in 26167ms (= 0:00:26.167)
+Running savilerow. File: YB5_r27.eprime. Output: YB5_r27.output
+I found 72 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ] ]
+I constructed 1330 solutions in 26822ms (= 0:00:26.822)
+Running savilerow. File: YB5_r28.eprime. Output: YB5_r28.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  1,  2,  3,  5,  4 ],
+  [  1,  2,  5,  4,  3 ],
+  [  1,  2,  4,  3,  5 ] ]
+I constructed 1394 solutions in 27641ms (= 0:00:27.641)
+Running savilerow. File: YB5_r29.eprime. Output: YB5_r29.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  1,  2,  3,  5,  4 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ] ]
+I constructed 1458 solutions in 28371ms (= 0:00:28.371)
+Running savilerow. File: YB5_r30.eprime. Output: YB5_r30.output
+I found 84 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ] ]
+I constructed 1542 solutions in 29146ms (= 0:00:29.146)
+Running savilerow. File: YB5_r31.eprime. Output: YB5_r31.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  4,  3,  5 ] ]
+I constructed 1606 solutions in 29785ms (= 0:00:29.785)
+Running savilerow. File: YB5_r32.eprime. Output: YB5_r32.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  5,  4 ],
+  [  2,  1,  5,  4,  3 ],
+  [  2,  1,  4,  3,  5 ] ]
+I constructed 1670 solutions in 30563ms (= 0:00:30.563)
+Running savilerow. File: YB5_r33.eprime. Output: YB5_r33.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  5,  4 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ] ]
+I constructed 1734 solutions in 31195ms (= 0:00:31.195)
+Running savilerow. File: YB5_r34.eprime. Output: YB5_r34.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  5,  4 ],
+  [  1,  2,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ] ]
+I constructed 1798 solutions in 31836ms (= 0:00:31.836)
+Running savilerow. File: YB5_r35.eprime. Output: YB5_r35.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  5,  4 ],
+  [  1,  2,  3,  5,  4 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ] ]
+I constructed 1862 solutions in 32496ms (= 0:00:32.496)
+Running savilerow. File: YB5_r36.eprime. Output: YB5_r36.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  5,  4 ],
+  [  1,  2,  3,  5,  4 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ] ]
+I constructed 1926 solutions in 33134ms (= 0:00:33.134)
+Running savilerow. File: YB5_r37.eprime. Output: YB5_r37.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ] ]
+I constructed 1990 solutions in 33844ms (= 0:00:33.844)
+Running savilerow. File: YB5_r38.eprime. Output: YB5_r38.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ] ]
+I constructed 2054 solutions in 34511ms (= 0:00:34.511)
+Running savilerow. File: YB5_r39.eprime. Output: YB5_r39.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  5,  4 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ] ]
+I constructed 2118 solutions in 35205ms (= 0:00:35.205)
+Running savilerow. File: YB5_r40.eprime. Output: YB5_r40.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  5,  4 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ] ]
+I constructed 2182 solutions in 35859ms (= 0:00:35.859)
+Running savilerow. File: YB5_r41.eprime. Output: YB5_r41.output
+I found 36 solutions
+Rack:
+[ [  2,  1,  4,  5,  3 ],
+  [  2,  1,  4,  5,  3 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ] ]
+I constructed 2218 solutions in 36594ms (= 0:00:36.594)
+Running savilerow. File: YB5_r42.eprime. Output: YB5_r42.output
+I found 36 solutions
+Rack:
+[ [  2,  1,  4,  5,  3 ],
+  [  2,  1,  4,  5,  3 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ] ]
+I constructed 2254 solutions in 37430ms (= 0:00:37.430)
+Running savilerow. File: YB5_r43.eprime. Output: YB5_r43.output
+I found 60 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  1,  2,  4,  3,  5 ],
+  [  1,  2,  4,  3,  5 ],
+  [  1,  2,  3,  4,  5 ] ]
+I constructed 2314 solutions in 38511ms (= 0:00:38.511)
+Running savilerow. File: YB5_r44.eprime. Output: YB5_r44.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  1,  2,  4,  3,  5 ],
+  [  1,  2,  4,  3,  5 ],
+  [  1,  2,  4,  3,  5 ] ]
+I constructed 2378 solutions in 39164ms (= 0:00:39.164)
+Running savilerow. File: YB5_r45.eprime. Output: YB5_r45.output
+I found 60 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  1,  2,  4,  3,  5 ],
+  [  1,  2,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ] ]
+I constructed 2438 solutions in 40276ms (= 0:00:40.276)
+Running savilerow. File: YB5_r46.eprime. Output: YB5_r46.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  1,  2,  3,  4,  5 ] ]
+I constructed 2502 solutions in 40897ms (= 0:00:40.897)
+Running savilerow. File: YB5_r47.eprime. Output: YB5_r47.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  1,  2,  4,  3,  5 ] ]
+I constructed 2566 solutions in 41552ms (= 0:00:41.552)
+Running savilerow. File: YB5_r48.eprime. Output: YB5_r48.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  3,  4,  5 ] ]
+I constructed 2630 solutions in 42242ms (= 0:00:42.242)
+Running savilerow. File: YB5_r49.eprime. Output: YB5_r49.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  3,  4,  5 ],
+  [  2,  1,  3,  4,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ] ]
+I constructed 2694 solutions in 42876ms (= 0:00:42.876)
+Running savilerow. File: YB5_r50.eprime. Output: YB5_r50.output
+I found 60 solutions
+Rack:
+[ [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  1,  2,  3,  4,  5 ] ]
+I constructed 2754 solutions in 43958ms (= 0:00:43.958)
+Running savilerow. File: YB5_r51.eprime. Output: YB5_r51.output
+I found 64 solutions
+Rack:
+[ [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  1,  2,  4,  3,  5 ] ]
+I constructed 2818 solutions in 44679ms (= 0:00:44.679)
+Running savilerow. File: YB5_r52.eprime. Output: YB5_r52.output
+I found 60 solutions
+Rack:
+[ [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ] ]
+I constructed 2878 solutions in 45729ms (= 0:00:45.729)
+Running savilerow. File: YB5_r53.eprime. Output: YB5_r53.output
+I found 16 solutions
+Rack:
+[ [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  3,  4,  1,  2,  5 ] ]
+I constructed 2894 solutions in 46661ms (= 0:00:46.661)
+Running savilerow. File: YB5_r54.eprime. Output: YB5_r54.output
+I found 16 solutions
+Rack:
+[ [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  2,  1,  4,  3,  5 ],
+  [  3,  4,  2,  1,  5 ] ]
+I constructed 2910 solutions in 47585ms (= 0:00:47.585)
+Running savilerow. File: YB5_r55.eprime. Output: YB5_r55.output
+I found 45 solutions
+Rack:
+[ [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ] ]
+I constructed 2955 solutions in 48343ms (= 0:00:48.343)
+Running savilerow. File: YB5_r56.eprime. Output: YB5_r56.output
+I found 27 solutions
+Rack:
+[ [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  2,  3,  1,  4,  5 ] ]
+I constructed 2982 solutions in 48986ms (= 0:00:48.986)
+Running savilerow. File: YB5_r57.eprime. Output: YB5_r57.output
+I found 27 solutions
+Rack:
+[ [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  1,  2,  3,  4,  5 ],
+  [  3,  1,  2,  4,  5 ] ]
+I constructed 3009 solutions in 49690ms (= 0:00:49.690)
+Running savilerow. File: YB5_r58.eprime. Output: YB5_r58.output
+I found 45 solutions
+Rack:
+[ [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ] ]
+I constructed 3054 solutions in 50552ms (= 0:00:50.552)
+Running savilerow. File: YB5_r59.eprime. Output: YB5_r59.output
+I found 27 solutions
+Rack:
+[ [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  3,  1,  2,  4,  5 ] ]
+I constructed 3081 solutions in 51245ms (= 0:00:51.245)
+Running savilerow. File: YB5_r60.eprime. Output: YB5_r60.output
+I found 45 solutions
+Rack:
+[ [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  3,  1,  2,  4,  5 ],
+  [  3,  1,  2,  4,  5 ] ]
+I constructed 3126 solutions in 52077ms (= 0:00:52.077)
+Running savilerow. File: YB5_r61.eprime. Output: YB5_r61.output
+I found 36 solutions
+Rack:
+[ [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ],
+  [  1,  2,  3,  4,  5 ],
+  [  1,  2,  3,  4,  5 ] ]
+I constructed 3162 solutions in 52831ms (= 0:00:52.831)
+Running savilerow. File: YB5_r62.eprime. Output: YB5_r62.output
+I found 36 solutions
+Rack:
+[ [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ] ]
+I constructed 3198 solutions in 53567ms (= 0:00:53.567)
+Running savilerow. File: YB5_r63.eprime. Output: YB5_r63.output
+I found 36 solutions
+Rack:
+[ [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ],
+  [  3,  1,  2,  4,  5 ],
+  [  3,  1,  2,  4,  5 ] ]
+I constructed 3234 solutions in 54340ms (= 0:00:54.340)
+Running savilerow. File: YB5_r64.eprime. Output: YB5_r64.output
+I found 36 solutions
+Rack:
+[ [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  1,  2,  3,  5,  4 ],
+  [  1,  2,  3,  5,  4 ] ]
+I constructed 3270 solutions in 55161ms (= 0:00:55.161)
+Running savilerow. File: YB5_r65.eprime. Output: YB5_r65.output
+I found 36 solutions
+Rack:
+[ [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ] ]
+I constructed 3306 solutions in 55933ms (= 0:00:55.933)
+Running savilerow. File: YB5_r66.eprime. Output: YB5_r66.output
+I found 36 solutions
+Rack:
+[ [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  2,  3,  1,  4,  5 ],
+  [  3,  1,  2,  5,  4 ],
+  [  3,  1,  2,  5,  4 ] ]
+I constructed 3342 solutions in 56792ms (= 0:00:56.792)
+Running savilerow. File: YB5_r67.eprime. Output: YB5_r67.output
+I found 36 solutions
+Rack:
+[ [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ],
+  [  1,  2,  3,  5,  4 ],
+  [  1,  2,  3,  5,  4 ] ]
+I constructed 3378 solutions in 57568ms (= 0:00:57.568)
+Running savilerow. File: YB5_r68.eprime. Output: YB5_r68.output
+I found 36 solutions
+Rack:
+[ [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ] ]
+I constructed 3414 solutions in 58498ms (= 0:00:58.498)
+Running savilerow. File: YB5_r69.eprime. Output: YB5_r69.output
+I found 36 solutions
+Rack:
+[ [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ],
+  [  2,  3,  1,  5,  4 ],
+  [  3,  1,  2,  5,  4 ],
+  [  3,  1,  2,  5,  4 ] ]
+I constructed 3450 solutions in 59273ms (= 0:00:59.273)
+Running savilerow. File: YB5_r70.eprime. Output: YB5_r70.output
+I found 16 solutions
+Rack:
+[ [  2,  3,  4,  1,  5 ],
+  [  2,  3,  4,  1,  5 ],
+  [  2,  3,  4,  1,  5 ],
+  [  2,  3,  4,  1,  5 ],
+  [  1,  2,  3,  4,  5 ] ]
+I constructed 3466 solutions in 60369ms (= 0:01:00.369)
+Running savilerow. File: YB5_r71.eprime. Output: YB5_r71.output
+I found 16 solutions
+Rack:
+[ [  2,  3,  4,  1,  5 ],
+  [  2,  3,  4,  1,  5 ],
+  [  2,  3,  4,  1,  5 ],
+  [  2,  3,  4,  1,  5 ],
+  [  2,  3,  4,  1,  5 ] ]
+I constructed 3482 solutions in 61465ms (= 0:01:01.465)
+Running savilerow. File: YB5_r72.eprime. Output: YB5_r72.output
+I found 16 solutions
+Rack:
+[ [  2,  3,  4,  1,  5 ],
+  [  2,  3,  4,  1,  5 ],
+  [  2,  3,  4,  1,  5 ],
+  [  2,  3,  4,  1,  5 ],
+  [  3,  4,  1,  2,  5 ] ]
+I constructed 3498 solutions in 62421ms (= 0:01:02.421)
+Running savilerow. File: YB5_r73.eprime. Output: YB5_r73.output
+I found 16 solutions
+Rack:
+[ [  2,  3,  4,  1,  5 ],
+  [  2,  3,  4,  1,  5 ],
+  [  2,  3,  4,  1,  5 ],
+  [  2,  3,  4,  1,  5 ],
+  [  4,  1,  2,  3,  5 ] ]
+I constructed 3514 solutions in 63355ms (= 0:01:03.355)
+Running savilerow. File: YB5_r74.eprime. Output: YB5_r74.output
+I found 5 solutions
+Rack:
+[ [  2,  3,  4,  5,  1 ],
+  [  2,  3,  4,  5,  1 ],
+  [  2,  3,  4,  5,  1 ],
+  [  2,  3,  4,  5,  1 ],
+  [  2,  3,  4,  5,  1 ] ]
+I constructed 3519 solutions in 64908ms (= 0:01:04.908)
+gap> Read("Rsize7.g");
+gap> compute_YB(7, Rsize7);
