@@ -1,0 +1,723 @@
+I skip the trivial rack.
+Running savilerow. File: biquandles6_r2.eprime. Output: biquandles6_r2.output
+I found 368 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  5,  4,  6 ] ]
+I constructed 368 biquandles in 5226ms (= 0:00:05.226)
+Running savilerow. File: biquandles6_r3.eprime. Output: biquandles6_r3.output
+I found 243 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  4,  5,  3,  6 ] ]
+I constructed 611 biquandles in 6392ms (= 0:00:06.392)
+Running savilerow. File: biquandles6_r4.eprime. Output: biquandles6_r4.output
+I found 248 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  3,  2,  5,  4,  6 ] ]
+I constructed 859 biquandles in 7669ms (= 0:00:07.669)
+Running savilerow. File: biquandles6_r5.eprime. Output: biquandles6_r5.output
+I found 64 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  3,  4,  5,  2,  6 ] ]
+I constructed 923 biquandles in 8835ms (= 0:00:08.835)
+Running savilerow. File: biquandles6_r6.eprime. Output: biquandles6_r6.output
+I found 216 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  1,  4,  5,  3,  6 ] ]
+I constructed 1139 biquandles in 9939ms (= 0:00:09.939)
+Running savilerow. File: biquandles6_r7.eprime. Output: biquandles6_r7.output
+I found 25 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  3,  4,  5,  1,  6 ] ]
+I constructed 1164 biquandles in 11924ms (= 0:00:11.924)
+Running savilerow. File: biquandles6_r8.eprime. Output: biquandles6_r8.output
+I found 912 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  4,  3,  5,  6 ],
+  [  1,  2,  4,  3,  5,  6 ] ]
+I constructed 2076 biquandles in 13286ms (= 0:00:13.286)
+Running savilerow. File: biquandles6_r9.eprime. Output: biquandles6_r9.output
+I found 184 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  4,  3,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ] ]
+I constructed 2260 biquandles in 15035ms (= 0:00:15.035)
+Running savilerow. File: biquandles6_r10.eprime. Output: biquandles6_r10.output
+I found 256 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  4,  3,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ] ]
+I constructed 2516 biquandles in 15942ms (= 0:00:15.942)
+Running savilerow. File: biquandles6_r11.eprime. Output: biquandles6_r11.output
+I found 243 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  3,  4,  2,  5,  6 ],
+  [  1,  3,  4,  2,  5,  6 ] ]
+I constructed 2759 biquandles in 17059ms (= 0:00:17.059)
+Running savilerow. File: biquandles6_r12.eprime. Output: biquandles6_r12.output
+I found 63 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  3,  4,  2,  5,  6 ],
+  [  1,  4,  2,  3,  5,  6 ] ]
+I constructed 2822 biquandles in 18000ms (= 0:00:18.000)
+Running savilerow. File: biquandles6_r13.eprime. Output: biquandles6_r13.output
+I found 596 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ] ]
+I constructed 3418 biquandles in 19879ms (= 0:00:19.879)
+Running savilerow. File: biquandles6_r14.eprime. Output: biquandles6_r14.output
+I found 60 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ],
+  [  3,  4,  1,  2,  5,  6 ] ]
+I constructed 3478 biquandles in 21341ms (= 0:00:21.341)
+Running savilerow. File: biquandles6_r15.eprime. Output: biquandles6_r15.output
+I found 64 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ],
+  [  3,  4,  2,  1,  5,  6 ] ]
+I constructed 3542 biquandles in 22575ms (= 0:00:22.575)
+Running savilerow. File: biquandles6_r16.eprime. Output: biquandles6_r16.output
+I found 96 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  3,  4,  1,  5,  6 ],
+  [  2,  3,  4,  1,  5,  6 ] ]
+I constructed 3638 biquandles in 24097ms (= 0:00:24.097)
+Running savilerow. File: biquandles6_r17.eprime. Output: biquandles6_r17.output
+I found 64 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  3,  4,  1,  5,  6 ],
+  [  4,  1,  2,  3,  5,  6 ] ]
+I constructed 3702 biquandles in 25536ms (= 0:00:25.536)
+Running savilerow. File: biquandles6_r18.eprime. Output: biquandles6_r18.output
+I found 456 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  6,  5,  4 ],
+  [  1,  2,  3,  5,  4,  6 ] ]
+I constructed 4158 biquandles in 27611ms (= 0:00:27.611)
+Running savilerow. File: biquandles6_r19.eprime. Output: biquandles6_r19.output
+I found 256 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  3,  2,  4,  5,  6 ],
+  [  1,  3,  2,  4,  5,  6 ] ]
+I constructed 4414 biquandles in 28560ms (= 0:00:28.560)
+Running savilerow. File: biquandles6_r20.eprime. Output: biquandles6_r20.output
+I found 216 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ] ]
+I constructed 4630 biquandles in 29727ms (= 0:00:29.727)
+Running savilerow. File: biquandles6_r21.eprime. Output: biquandles6_r21.output
+I found 368 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  3,  2,  4,  5,  6 ],
+  [  1,  3,  2,  4,  5,  6 ],
+  [  1,  3,  2,  4,  5,  6 ] ]
+I constructed 4998 biquandles in 30981ms (= 0:00:30.981)
+Running savilerow. File: biquandles6_r22.eprime. Output: biquandles6_r22.output
+I found 256 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  3,  2,  4,  5,  6 ],
+  [  1,  3,  2,  4,  5,  6 ],
+  [  1,  3,  2,  5,  4,  6 ] ]
+I constructed 5254 biquandles in 31922ms (= 0:00:31.922)
+Running savilerow. File: biquandles6_r23.eprime. Output: biquandles6_r23.output
+I found 336 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  3,  2,  4,  6,  5 ],
+  [  1,  3,  2,  6,  5,  4 ],
+  [  1,  3,  2,  5,  4,  6 ] ]
+I constructed 5590 biquandles in 33217ms (= 0:00:33.217)
+Running savilerow. File: biquandles6_r24.eprime. Output: biquandles6_r24.output
+I found 16 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  3,  2,  4,  6,  5 ],
+  [  2,  1,  3,  6,  5,  4 ],
+  [  3,  2,  1,  5,  4,  6 ] ]
+I constructed 5606 biquandles in 34763ms (= 0:00:34.763)
+Running savilerow. File: biquandles6_r25.eprime. Output: biquandles6_r25.output
+I found 261 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ] ]
+I constructed 5867 biquandles in 36435ms (= 0:00:36.435)
+Running savilerow. File: biquandles6_r26.eprime. Output: biquandles6_r26.output
+I found 216 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  2,  3,  1,  5,  4,  6 ] ]
+I constructed 6083 biquandles in 37631ms (= 0:00:37.631)
+Running savilerow. File: biquandles6_r27.eprime. Output: biquandles6_r27.output
+I found 243 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  3,  1,  2,  4,  5,  6 ] ]
+I constructed 6326 biquandles in 38779ms (= 0:00:38.779)
+Running savilerow. File: biquandles6_r28.eprime. Output: biquandles6_r28.output
+I found 216 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  3,  1,  2,  5,  4,  6 ] ]
+I constructed 6542 biquandles in 39967ms (= 0:00:39.967)
+Running savilerow. File: biquandles6_r29.eprime. Output: biquandles6_r29.output
+I found 162 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  3,  1,  4,  6,  5 ],
+  [  2,  3,  1,  6,  5,  4 ],
+  [  2,  3,  1,  5,  4,  6 ] ]
+I constructed 6704 biquandles in 41613ms (= 0:00:41.613)
+Running savilerow. File: biquandles6_r30.eprime. Output: biquandles6_r30.output
+I found 608 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  4,  3,  5,  6 ],
+  [  1,  2,  4,  3,  5,  6 ] ]
+I constructed 7312 biquandles in 43397ms (= 0:00:43.397)
+Running savilerow. File: biquandles6_r31.eprime. Output: biquandles6_r31.output
+I found 704 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ] ]
+I constructed 8016 biquandles in 44641ms (= 0:00:44.641)
+Running savilerow. File: biquandles6_r32.eprime. Output: biquandles6_r32.output
+I found 528 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  1,  4,  3,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ] ]
+I constructed 8544 biquandles in 45848ms (= 0:00:45.848)
+Running savilerow. File: biquandles6_r33.eprime. Output: biquandles6_r33.output
+I found 336 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  1,  2,  6,  4,  5,  3 ],
+  [  1,  2,  5,  4,  3,  6 ] ]
+I constructed 8880 biquandles in 47189ms (= 0:00:47.189)
+Running savilerow. File: biquandles6_r34.eprime. Output: biquandles6_r34.output
+I found 256 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ] ]
+I constructed 9136 biquandles in 48198ms (= 0:00:48.198)
+Running savilerow. File: biquandles6_r35.eprime. Output: biquandles6_r35.output
+I found 256 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ] ]
+I constructed 9392 biquandles in 49106ms (= 0:00:49.106)
+Running savilerow. File: biquandles6_r36.eprime. Output: biquandles6_r36.output
+I found 170 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  5,  6,  4 ],
+  [  1,  2,  6,  4,  3,  5 ],
+  [  1,  2,  4,  6,  5,  3 ],
+  [  1,  2,  5,  3,  4,  6 ] ]
+I constructed 9562 biquandles in 50728ms (= 0:00:50.728)
+Running savilerow. File: biquandles6_r37.eprime. Output: biquandles6_r37.output
+I found 216 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  5,  6,  4 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ] ]
+I constructed 9778 biquandles in 51825ms (= 0:00:51.825)
+Running savilerow. File: biquandles6_r38.eprime. Output: biquandles6_r38.output
+I found 712 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ] ]
+I constructed 10490 biquandles in 54480ms (= 0:00:54.480)
+Running savilerow. File: biquandles6_r39.eprime. Output: biquandles6_r39.output
+I found 256 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  5,  4,  6 ] ]
+I constructed 10746 biquandles in 55406ms (= 0:00:55.406)
+Running savilerow. File: biquandles6_r40.eprime. Output: biquandles6_r40.output
+I found 216 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  4,  5,  3,  6 ] ]
+I constructed 10962 biquandles in 56565ms (= 0:00:56.565)
+Running savilerow. File: biquandles6_r41.eprime. Output: biquandles6_r41.output
+I found 704 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ] ]
+I constructed 11666 biquandles in 57876ms (= 0:00:57.876)
+Running savilerow. File: biquandles6_r42.eprime. Output: biquandles6_r42.output
+I found 336 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  2,  1,  3,  6,  5,  4 ],
+  [  2,  1,  3,  5,  4,  6 ] ]
+I constructed 12002 biquandles in 59126ms (= 0:00:59.126)
+Running savilerow. File: biquandles6_r43.eprime. Output: biquandles6_r43.output
+I found 396 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  2,  1,  4,  3,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ] ]
+I constructed 12398 biquandles in 60852ms (= 0:01:00.852)
+Running savilerow. File: biquandles6_r44.eprime. Output: biquandles6_r44.output
+I found 120 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  5,  6 ],
+  [  2,  1,  3,  5,  6,  4 ],
+  [  2,  1,  6,  4,  3,  5 ],
+  [  2,  1,  4,  6,  5,  3 ],
+  [  2,  1,  5,  3,  4,  6 ] ]
+I constructed 12518 biquandles in 62539ms (= 0:01:02.539)
+Running savilerow. File: biquandles6_r45.eprime. Output: biquandles6_r45.output
+I found 256 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  4,  3,  5,  6 ],
+  [  1,  2,  4,  3,  5,  6 ] ]
+I constructed 12774 biquandles in 63481ms (= 0:01:03.481)
+Running savilerow. File: biquandles6_r46.eprime. Output: biquandles6_r46.output
+I found 216 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  3,  4,  2,  5,  6 ],
+  [  1,  3,  4,  2,  5,  6 ] ]
+I constructed 12990 biquandles in 64569ms (= 0:01:04.569)
+Running savilerow. File: biquandles6_r47.eprime. Output: biquandles6_r47.output
+I found 248 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  3,  2,  4,  6,  5 ],
+  [  1,  3,  2,  4,  5,  6 ],
+  [  1,  3,  2,  4,  5,  6 ] ]
+I constructed 13238 biquandles in 65895ms (= 0:01:05.895)
+Running savilerow. File: biquandles6_r48.eprime. Output: biquandles6_r48.output
+I found 42 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  3,  5,  6,  4 ],
+  [  1,  2,  3,  6,  4,  5 ],
+  [  1,  3,  2,  4,  6,  5 ],
+  [  1,  3,  2,  6,  5,  4 ],
+  [  1,  3,  2,  5,  4,  6 ] ]
+I constructed 13280 biquandles in 66900ms (= 0:01:06.900)
+Running savilerow. File: biquandles6_r49.eprime. Output: biquandles6_r49.output
+I found 44 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  4,  3,  6,  5 ],
+  [  1,  5,  3,  6,  2,  4 ],
+  [  1,  6,  5,  4,  3,  2 ],
+  [  1,  4,  6,  2,  5,  3 ],
+  [  1,  3,  2,  5,  4,  6 ] ]
+I constructed 13324 biquandles in 68851ms (= 0:01:08.851)
+Running savilerow. File: biquandles6_r50.eprime. Output: biquandles6_r50.output
+I found 44 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  4,  5,  6,  3 ],
+  [  1,  4,  3,  6,  2,  5 ],
+  [  1,  5,  6,  4,  3,  2 ],
+  [  1,  6,  2,  3,  5,  4 ],
+  [  1,  3,  5,  2,  4,  6 ] ]
+I constructed 13368 biquandles in 70698ms (= 0:01:10.698)
+Running savilerow. File: biquandles6_r51.eprime. Output: biquandles6_r51.output
+I found 44 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  5,  6 ],
+  [  1,  2,  4,  5,  6,  3 ],
+  [  1,  5,  3,  6,  4,  2 ],
+  [  1,  6,  2,  4,  3,  5 ],
+  [  1,  3,  6,  2,  5,  4 ],
+  [  1,  4,  5,  3,  2,  6 ] ]
+I constructed 13412 biquandles in 72669ms (= 0:01:12.669)
+Running savilerow. File: biquandles6_r52.eprime. Output: biquandles6_r52.output
+I found 704 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  4,  3,  5,  6 ],
+  [  1,  2,  4,  3,  5,  6 ] ]
+I constructed 14116 biquandles in 73880ms (= 0:01:13.880)
+Running savilerow. File: biquandles6_r53.eprime. Output: biquandles6_r53.output
+I found 216 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  3,  4,  2,  5,  6 ],
+  [  1,  3,  4,  2,  5,  6 ] ]
+I constructed 14332 biquandles in 74978ms (= 0:01:14.978)
+Running savilerow. File: biquandles6_r54.eprime. Output: biquandles6_r54.output
+I found 400 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  1,  4,  3,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ] ]
+I constructed 14732 biquandles in 76812ms (= 0:01:16.812)
+Running savilerow. File: biquandles6_r55.eprime. Output: biquandles6_r55.output
+I found 72 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  3,  4,  1,  5,  6 ],
+  [  2,  3,  4,  1,  5,  6 ] ]
+I constructed 14804 biquandles in 78391ms (= 0:01:18.391)
+Running savilerow. File: biquandles6_r56.eprime. Output: biquandles6_r56.output
+I found 184 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  3,  2,  4,  5,  6 ],
+  [  1,  3,  2,  4,  5,  6 ],
+  [  1,  3,  2,  4,  5,  6 ] ]
+I constructed 14988 biquandles in 80579ms (= 0:01:20.579)
+Running savilerow. File: biquandles6_r57.eprime. Output: biquandles6_r57.output
+I found 256 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  3,  2,  4,  6,  5 ],
+  [  1,  3,  2,  4,  5,  6 ],
+  [  1,  3,  2,  4,  5,  6 ] ]
+I constructed 15244 biquandles in 81559ms (= 0:01:21.559)
+Running savilerow. File: biquandles6_r58.eprime. Output: biquandles6_r58.output
+I found 216 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ] ]
+I constructed 15460 biquandles in 82729ms (= 0:01:22.729)
+Running savilerow. File: biquandles6_r59.eprime. Output: biquandles6_r59.output
+I found 216 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  3,  1,  2,  4,  5,  6 ],
+  [  3,  1,  2,  4,  5,  6 ] ]
+I constructed 15676 biquandles in 83870ms (= 0:01:23.870)
+Running savilerow. File: biquandles6_r60.eprime. Output: biquandles6_r60.output
+I found 216 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  3,  1,  4,  6,  5 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ] ]
+I constructed 15892 biquandles in 85063ms (= 0:01:25.063)
+Running savilerow. File: biquandles6_r61.eprime. Output: biquandles6_r61.output
+I found 216 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  3,  1,  4,  6,  5 ],
+  [  3,  1,  2,  4,  5,  6 ],
+  [  3,  1,  2,  4,  5,  6 ] ]
+I constructed 16108 biquandles in 86296ms (= 0:01:26.296)
+Running savilerow. File: biquandles6_r62.eprime. Output: biquandles6_r62.output
+I found 192 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  1,  2,  4,  3,  5,  6 ],
+  [  1,  2,  4,  3,  5,  6 ] ]
+I constructed 16300 biquandles in 95019ms (= 0:01:35.019)
+Running savilerow. File: biquandles6_r63.eprime. Output: biquandles6_r63.output
+I found 512 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ] ]
+I constructed 16812 biquandles in 96250ms (= 0:01:36.250)
+Running savilerow. File: biquandles6_r64.eprime. Output: biquandles6_r64.output
+I found 596 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  5,  6 ],
+  [  2,  1,  3,  4,  5,  6 ] ]
+I constructed 17408 biquandles in 98289ms (= 0:01:38.289)
+Running savilerow. File: biquandles6_r65.eprime. Output: biquandles6_r65.output
+I found 512 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  2,  1,  4,  3,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ] ]
+I constructed 17920 biquandles in 99517ms (= 0:01:39.517)
+Running savilerow. File: biquandles6_r66.eprime. Output: biquandles6_r66.output
+I found 200 biquandles.
+Rack:
+[ [  1,  2,  3,  4,  6,  5 ],
+  [  1,  2,  4,  3,  5,  6 ],
+  [  1,  4,  3,  2,  5,  6 ],
+  [  1,  3,  2,  4,  5,  6 ],
+  [  6,  2,  3,  4,  5,  1 ],
+  [  5,  2,  3,  4,  1,  6 ] ]
+I constructed 18120 biquandles in 111633ms (= 0:01:51.633)
+Running savilerow. File: biquandles6_r67.eprime. Output: biquandles6_r67.output
+I found 54 biquandles.
+Rack:
+[ [  1,  2,  3,  5,  6,  4 ],
+  [  1,  2,  3,  5,  6,  4 ],
+  [  1,  2,  3,  5,  6,  4 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ],
+  [  2,  3,  1,  4,  5,  6 ] ]
+I constructed 18174 biquandles in 114709ms (= 0:01:54.709)
+Running savilerow. File: biquandles6_r68.eprime. Output: biquandles6_r68.output
+I found 224 biquandles.
+Rack:
+[ [  1,  2,  4,  3,  6,  5 ],
+  [  1,  2,  4,  3,  6,  5 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  2,  1,  4,  3,  5,  6 ],
+  [  2,  1,  4,  3,  5,  6 ] ]
+I constructed 18398 biquandles in 119539ms (= 0:01:59.539)
+Running savilerow. File: biquandles6_r69.eprime. Output: biquandles6_r69.output
+I found 44 biquandles.
+Rack:
+[ [  1,  2,  4,  3,  6,  5 ],
+  [  1,  2,  4,  3,  6,  5 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  3,  4,  1,  2,  5,  6 ],
+  [  4,  3,  2,  1,  5,  6 ] ]
+I constructed 18442 biquandles in 121097ms (= 0:02:01.097)
+Running savilerow. File: biquandles6_r70.eprime. Output: biquandles6_r70.output
+I found 44 biquandles.
+Rack:
+[ [  1,  2,  4,  3,  6,  5 ],
+  [  1,  2,  4,  3,  6,  5 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  2,  1,  3,  4,  6,  5 ],
+  [  3,  4,  2,  1,  5,  6 ],
+  [  4,  3,  1,  2,  5,  6 ] ]
+I constructed 18486 biquandles in 122722ms (= 0:02:02.722)
+Running savilerow. File: biquandles6_r71.eprime. Output: biquandles6_r71.output
+I found 22 biquandles.
+Rack:
+[ [  1,  2,  4,  3,  6,  5 ],
+  [  1,  2,  4,  3,  6,  5 ],
+  [  4,  5,  3,  1,  2,  6 ],
+  [  3,  6,  1,  4,  5,  2 ],
+  [  3,  6,  1,  4,  5,  2 ],
+  [  4,  5,  3,  1,  2,  6 ] ]
+I constructed 18508 biquandles in 125033ms (= 0:02:05.033)
+Running savilerow. File: biquandles6_r72.eprime. Output: biquandles6_r72.output
+I found 20 biquandles.
+Rack:
+[ [  1,  2,  4,  3,  6,  5 ],
+  [  1,  2,  5,  6,  3,  4 ],
+  [  4,  5,  3,  1,  2,  6 ],
+  [  3,  6,  1,  4,  5,  2 ],
+  [  6,  3,  2,  4,  5,  1 ],
+  [  5,  4,  3,  2,  1,  6 ] ]
+I constructed 18528 biquandles in 127734ms (= 0:02:07.734)
+Running savilerow. File: biquandles6_r73.eprime. Output: biquandles6_r73.output
+I found 20 biquandles.
+Rack:
+[ [  1,  2,  4,  5,  6,  3 ],
+  [  1,  2,  6,  3,  4,  5 ],
+  [  6,  4,  3,  1,  5,  2 ],
+  [  3,  5,  2,  4,  1,  6 ],
+  [  4,  6,  3,  2,  5,  1 ],
+  [  5,  3,  1,  4,  2,  6 ] ]
+I constructed 18548 biquandles in 130532ms (= 0:02:10.532)
+gap> Read("Rsize5.g");
+gap> compute_biquandles(5, Rsize5);
