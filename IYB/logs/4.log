@@ -1,0 +1,21 @@
+Running savilerow for T=(1,2,3,4). Time: 439ms (= 0:00:00.439).
+Repetitions removed in 0ms (= 0:00:00.000).
+3 solutions in 439ms (= 0:00:00.439)
+--
+Running savilerow for T=(1,2,3). Time: 484ms (= 0:00:00.484).
+Repetitions removed in 0ms (= 0:00:00.000).
+3 solutions in 485ms (= 0:00:00.485)
+--
+Running savilerow for T=(1,2)(3,4). Time: 550ms (= 0:00:00.550).
+Repetitions removed in 0ms (= 0:00:00.000).
+5 solutions in 551ms (= 0:00:00.551)
+--
+Running savilerow for T=(1,2). Time: 534ms (= 0:00:00.534).
+Repetitions removed in 0ms (= 0:00:00.000).
+7 solutions in 535ms (= 0:00:00.535)
+--
+Running savilerow for T=(). Time: 614ms (= 0:00:00.614).
+Repetitions removed in 0ms (= 0:00:00.000).
+5 solutions in 615ms (= 0:00:00.615)
+--
+I constructed 23 solutions in 2626ms (= 0:00:02.626)

@@ -1,0 +1,90 @@
+Running savilerow for T=(1,2,3,4,5,6,7,8). Time: 21250ms (= 0:00:21.250).
+Repetitions removed in 1ms (= 0:00:00.001).
+14 solutions in 21252ms (= 0:00:21.252)
+--
+Running savilerow for T=(1,2,3,4,5,6,7). Time: 17539ms (= 0:00:17.539).
+Repetitions removed in 0ms (= 0:00:00.000).
+7 solutions in 17540ms (= 0:00:17.540)
+--
+Running savilerow for T=(1,2,3,4,5,6)(7,8). Time: 14603ms (= 0:00:14.603).
+Repetitions removed in 9ms (= 0:00:00.009).
+112 solutions in 14613ms (= 0:00:14.613)
+--
+Running savilerow for T=(1,2,3,4,5,6). Time: 12840ms (= 0:00:12.840).
+Repetitions removed in 14ms (= 0:00:00.014).
+183 solutions in 12855ms (= 0:00:12.855)
+--
+Running savilerow for T=(1,2,3,4,5)(6,7,8). Time: 8512ms (= 0:00:08.512).
+Repetitions removed in 1ms (= 0:00:00.001).
+15 solutions in 8514ms (= 0:00:08.514)
+--
+Running savilerow for T=(1,2,3,4,5)(6,7). Time: 11706ms (= 0:00:11.706).
+Repetitions removed in 13ms (= 0:00:00.013).
+100 solutions in 11721ms (= 0:00:11.721)
+--
+Running savilerow for T=(1,2,3,4,5). Time: 6314ms (= 0:00:06.314).
+Repetitions removed in 21ms (= 0:00:00.021).
+115 solutions in 6340ms (= 0:00:06.340)
+--
+Running savilerow for T=(1,2,3,4)(5,6,7,8). Time: 27208ms (= 0:00:27.208).
+Repetitions removed in 62ms (= 0:00:00.062).
+212 solutions in 27271ms (= 0:00:27.271)
+--
+Running savilerow for T=(1,2,3,4)(5,6,7). Time: 10314ms (= 0:00:10.314).
+Repetitions removed in 26ms (= 0:00:00.026).
+324 solutions in 10342ms (= 0:00:10.342)
+--
+Running savilerow for T=(1,2,3,4)(5,6)(7,8). Time: 12496ms (= 0:00:12.496).
+Repetitions removed in 181ms (= 0:00:00.181).
+1380 solutions in 12678ms (= 0:00:12.678)
+--
+Running savilerow for T=(1,2,3,4)(5,6). Time: 11732ms (= 0:00:11.732).
+Repetitions removed in 206ms (= 0:00:00.206).
+2222 solutions in 11940ms (= 0:00:11.940)
+--
+Running savilerow for T=(1,2,3,4). Time: 9568ms (= 0:00:09.568).
+Repetitions removed in 246ms (= 0:00:00.246).
+1512 solutions in 9816ms (= 0:00:09.816)
+--
+Running savilerow for T=(1,2,3)(4,5,6)(7,8). Time: 7304ms (= 0:00:07.304).
+Repetitions removed in 42ms (= 0:00:00.042).
+279 solutions in 7347ms (= 0:00:07.347)
+--
+Running savilerow for T=(1,2,3)(4,5,6). Time: 7276ms (= 0:00:07.276).
+Repetitions removed in 80ms (= 0:00:00.080).
+516 solutions in 7357ms (= 0:00:07.357)
+--
+Running savilerow for T=(1,2,3)(4,5)(6,7). Time: 8896ms (= 0:00:08.896).
+Repetitions removed in 158ms (= 0:00:00.158).
+1386 solutions in 9054ms (= 0:00:09.054)
+--
+Running savilerow for T=(1,2,3)(4,5). Time: 8581ms (= 0:00:08.581).
+Repetitions removed in 241ms (= 0:00:00.241).
+2184 solutions in 8823ms (= 0:00:08.823)
+--
+Running savilerow for T=(1,2,3). Time: 16745ms (= 0:00:16.745).
+Repetitions removed in 498ms (= 0:00:00.498).
+1530 solutions in 17245ms (= 0:00:17.245)
+--
+Running savilerow for T=(1,2)(3,4)(5,6)(7,8). Time: 45592ms (= 0:00:45.592).
+Repetitions removed in 1956ms (= 0:00:01.956).
+2474 solutions in 47550ms (= 0:00:47.550)
+--
+Running savilerow for T=(1,2)(3,4)(5,6). Time: 32793ms (= 0:00:32.793).
+Repetitions removed in 1649ms (= 0:00:01.649).
+5906 solutions in 34443ms (= 0:00:34.443)
+--
+Running savilerow for T=(1,2)(3,4). Time: 25328ms (= 0:00:25.328).
+Repetitions removed in 1889ms (= 0:00:01.889).
+7030 solutions in 27218ms (= 0:00:27.218)
+--
+Running savilerow for T=(1,2). Time: 47373ms (= 0:00:47.373).
+Repetitions removed in 3834ms (= 0:00:03.834).
+4988 solutions in 51213ms (= 0:00:51.213)
+--
+Running savilerow for T=(). Time: 139526ms (= 0:02:19.526).
+Repetitions removed in 38297ms (= 0:00:38.297).
+2041 solutions in 177874ms (= 0:02:57.874)
+--
+I constructed 34530 solutions in 553015ms (= 0:09:13.015)
+gap> 

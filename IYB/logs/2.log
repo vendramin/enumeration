@@ -1,0 +1,9 @@
+Running savilerow for T=(1,2). Time: 310ms (= 0:00:00.310).
+Repetitions removed in 0ms (= 0:00:00.000).
+1 solutions in 311ms (= 0:00:00.311)
+--
+Running savilerow for T=(). Time: 315ms (= 0:00:00.315).
+Repetitions removed in 0ms (= 0:00:00.000).
+1 solutions in 316ms (= 0:00:00.316)
+--
+I constructed 2 solutions in 628ms (= 0:00:00.628)
