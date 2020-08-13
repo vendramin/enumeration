@@ -1,10 +1,22 @@
 # enumerations 
 
-The repository contains:
-* GatevaIvanova: Counterexamples to a conjecture of Gateva-Ivanova on retractability of square-free involutive solutions. Sizes: 8, 9, 10 and 11.
-* IYB: Involutive non-degenerate solutions. The algorithm needs about 90 hours to compute all involutive solutions of size 9 up to isomorphism.  
-* YB: Non-involutive non-degenerate solutions. The repository contains a database of non-involutive solutions of size <9.  
-* strangeX: Strange binary operations. The repository contains database of strange tables of size 2, 3, 4 and 5. 
-* biquandles: Biquandles of size 2..8.
+The repository contains database of several finite non-associative structures. This is based on the preprint 
 
+> Ö. Akgün, M. Mereb, L. Vendramin. Enumeration of set-theoretic solutions to the Yang-Baxter equation, [arXiv:2008.04483](https://arxiv.org/abs/2008.04483).
+
+Here is a short description of some of the files. 
+
+## IYB: Involutive solutions to the YBE 
+
+There are several ways to approach the construction of solutions:
+* `parserA.g`. The method here is to send as constraint all permutations in the centralizer of T whenever the centralizer is small enough, and a generating set of this centralizer otherwise. 
+* `parserB.g`. The method here consists of sending as constaints all permutations in the centralizer of T whenever the centalizer is small enough, and those permutations of the centralizer that move at most 3 points otherweise.       
+* `parserC.g`. The method here is to send as constraints all products of at most 3 elements of a generating set of the centralizer of T. 
+
+These files were used to construct involutive solutions (up to isomorphism) of size at most 10.  
+You will find the database (for GAP) in `data` and logfiles corresponding to the different methods in `logs`. 
+
+To construct solutions of size nine, one loads the file needed, for example `gap parserC.g` and then run the following command:
+
+`gap> construct(9);`
 
