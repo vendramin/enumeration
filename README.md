@@ -20,3 +20,6 @@ To construct solutions of size nine, one loads the file needed, for example `gap
 
 `gap> construct(9);`
 
+## YB: Non-involutive solutions
+
+Solutions of size eight are [here](https://vub-my.sharepoint.com/:u:/g/personal/leandro_vendramin_vub_be/ESfStwqaoURGpQvbRSjrb2EBv5OErY-5dI6H3ILX62nVHQ?e=mD0y3a)
