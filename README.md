@@ -2,7 +2,7 @@
 
 The repository contains database of several finite non-associative structures. This is based on the preprint 
 
-> Ö. Akgün, M. Mereb, L. Vendramin. Enumeration of set-theoretic solutions to the Yang-Baxter equation, [arXiv:2008.04483](https://arxiv.org/abs/2008.04483).
+> Ö. Akgün, M. Mereb, L. Vendramin. Enumeration of set-theoretic solutions to the Yang-Baxter equation. _Math. Comp. 91 (2022), 1469-1481_. Preprint: [arXiv:2008.04483](https://arxiv.org/abs/2008.04483).
 
 Here is a short description of some of the files. 
 
