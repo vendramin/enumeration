@@ -1,6 +1,8 @@
 # enumerations 
 
-The repository contains database of several finite non-associative structures. This is based on the preprint 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2573572.svg)](https://doi.org/10.5281/zenodo.5180745)
+
+The repository contains database of several finite non-associative structures. This is based on the paper  
 
 > Ö. Akgün, M. Mereb, L. Vendramin. Enumeration of set-theoretic solutions to the Yang-Baxter equation. _Math. Comp. 91 (2022), 1469-1481_. Preprint: [arXiv:2008.04483](https://arxiv.org/abs/2008.04483).
 
